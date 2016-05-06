@@ -1,3 +1,5 @@
+# This program is heavily influenced and almost copied from http://code.activestate.com/recipes/577385-image-downloader/ 
+
 import urllib2
 from os.path import basename
 from urlparse import urlsplit
